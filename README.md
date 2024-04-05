@@ -37,4 +37,4 @@ The dataset is split into training and testing sets using an 80:20 ratio. The mo
 
 ## 🚀 Let's Get Cooking!
 
-DishDetect streamlines the process of identifying and categorizing dishes, making it easier to analyze culinary data and enhance decision-making in various contexts. Dive into the repository to explore the code and contribute to the advancement of this exciting project!
+DishDetect streamlines the process of identifying and categorizing dishes, making it easier to analyze culinary data and enhance decision-making in various contexts. 
